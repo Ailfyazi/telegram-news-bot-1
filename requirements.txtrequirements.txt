@@ -1,1 +1,5 @@
-feedparser requests beautifulsoup4 Pillow transformers torch sentencepiece python-telegram-bot==20.3 
+feedparser
+requests
+beautifulsoup4
+redis
+Pillow
